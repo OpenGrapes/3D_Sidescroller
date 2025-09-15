@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: "Assets/Sidescroller/Scene/StartMen\xFC.unity"
+    guid: fd63e385fb96c4c4bb85959c3c31a2b3
+  - enabled: 1
+    path: Assets/Sidescroller/Scene/Level1.unity
+    guid: 4d8c0583df86acc48899654696df8bf7
+  - enabled: 1
+    path: Assets/Sidescroller/Scene/Level2.unity
+    guid: 6882749c47a68fc46ad23791117c09cb
+  - enabled: 1
+    path: Assets/Sidescroller/Scene/GameOver.unity
+    guid: 6dbb1c3f468d07b4fb898cc7827338d8
+  - enabled: 1
+    path: Assets/Sidescroller/Scene/ScoreBoard.unity
+    guid: a71a97f66e34b114da1224d908e63f0c
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
